@@ -1,1 +1,1 @@
-This is the line from conflict-branch
+🔥 This is conflict-branch’s final line
